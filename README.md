@@ -1,5 +1,5 @@
 # Global-CT-Image-Noise
-The algorithm reports the tube current and water equivalent diameter of the patient in a CT image stack, as well as provides methods for measuring the image noise using a manual or semi-automated technique.
+This algorithm reports the tube current and water equivalent diameter of the patient in a CT image stack, as well as provides methods for measuring the image noise using a manual or semi-automated technique.
 
 This notebook should be saved in the same directory as the DICOM CT image files you wish to analyze. The technique from Chirstianson, et al. has been modified to use some clustering techniques in addtion to the original technique.
 
